@@ -355,10 +355,10 @@ ZhangZiSheng001 readwrite
 
 # 参考资料
 
-[JMX超详细解读]: https://www.cnblogs.com/dongguacai/p/5900507.html
+- [JMX超详细解读](https://www.cnblogs.com/dongguacai/p/5900507.html)
 
-[从零开始玩转JMX(一)——简介和Standard MBean]: https://blog.csdn.net/u013256816/article/details/52800742
-
+- [从零开始玩转JMX(一)——简介和Standard MBean](https://blog.csdn.net/u013256816/article/details/52800742)
 
 
 >本文为原创文章，转载请附上原文出处链接：https://github.com/ZhangZiSheng001/02-jmx-demo
+
