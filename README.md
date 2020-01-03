@@ -359,6 +359,7 @@ ZhangZiSheng001 readwrite
 
 - [从零开始玩转JMX(一)——简介和Standard MBean](https://blog.csdn.net/u013256816/article/details/52800742)
 
+> 相关源码请移步：https://github.com/ZhangZiSheng001/02-jmx-demo
 
->本文为原创文章，转载请附上原文出处链接：https://github.com/ZhangZiSheng001/02-jmx-demo
+> 本文为原创文章，转载请附上原文出处链接：https://www.cnblogs.com/ZhangZiSheng001/p/12128915.html
 
